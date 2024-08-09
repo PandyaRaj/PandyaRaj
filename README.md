@@ -48,6 +48,7 @@
 
 ###
 
-<p align="left">Feel free to reach out to me on LinkedIn or Email.</p>
+<p align="left">Feel free to reach out to me on <a href="www.linkedin.com/in/pandya-raj-8346001b4" target="_blank">LinkedIn</a> or <a href="mailto:rajpandya1575@example.com">Email</a>.</p>
+
 
 ###
